@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 0.1642479910745882,
+      "firstname": "ioana",
+      "lastname": "barbu",
+      "username": "ioanaB",
+      "email": "ioana_barbu19@yahoo.com",
+      "password": "12345"
+    },
+    {
+      "id": 0.2765677913706899,
+      "firstname": "dan",
+      "lastname": "barna",
+      "username": "danBarna",
+      "email": "dan.barna@yahoo.com",
+      "password": "baubau"
+    },
+    {
+      "id": 0.5163111051649072,
+      "firstname": "mihai",
+      "lastname": "stan",
+      "username": "mihai.stan",
+      "email": "mihai.stan@yahoo.com",
+      "password": "12345678"
+    },
+    {
+      "id": 0.5090165618677089,
+      "firstname": "mircea",
+      "lastname": "bratu",
+      "username": "mirceaB",
+      "email": "mircea.bratu@yahoo.com",
+      "password": "mircea"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "userId": 0.2018483999309828,
+      "text": "whatever"
+    }
+  ]
+}
