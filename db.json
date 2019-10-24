@@ -31,6 +31,14 @@
       "username": "mirceaB",
       "email": "mircea.bratu@yahoo.com",
       "password": "mircea"
+    },
+    {
+      "id": 0.7015682747320333,
+      "firstname": "ioana",
+      "lastname": "bau",
+      "username": "ioana.bau",
+      "email": "ioana_barbu19@yahoo.com",
+      "password": "1234567"
     }
   ],
   "todos": [
